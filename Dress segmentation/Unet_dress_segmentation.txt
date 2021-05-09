@@ -1,0 +1,10 @@
+https://github.com/GeorgeSeif
+One Hundred Layers Tiramisu:https://arxiv.org/pdf/1611.09326.pdf
+Refinet:https://arxiv.org/pdf/1611.06612.pdf
+BiSeNet:https://arxiv.org/pdf/1808.00897v1.pdf
+ExFuse: Enhancing Feature Fusion: https://openaccess.thecvf.com/content_ECCV_2018/papers/Zhenli_Zhang_ExFuse_Enhancing_Feature_ECCV_2018_paper.pdf
+Dense Decoder Shortcut Connections for Single-Pass Semantic Segmentation:https://openaccess.thecvf.com/content_cvpr_2018/papers/Bilinski_Dense_Decoder_Shortcut_CVPR_2018_paper.pdf
+Context Encoding for Semantic Segmentation:https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Context_Encoding_for_CVPR_2018_paper.pdf
+DenseASPP:https://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf
+Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes:https://arxiv.org/pdf/1611.08323.pdf
+Pyramid Scene Parsing Network:https://arxiv.org/pdf/1612.01105.pdf
