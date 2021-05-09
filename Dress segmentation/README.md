@@ -5,7 +5,7 @@
 
 
 
-## Segnet and Unet are the breakthrough segmentation network which can be used for variety of applications such as medical,separation of objects,satellite images etc,. Here UNET archictecture is used to separatebody and dress from the person. It also be done based on Image processing and ML technique where features are color or texture, and it is a first way to segment the images and also helps to deepening the image processing concept. After the release of specific Segmentation Neural Network, the process would become very simple, only consume time to update their network parameters. Following are the segmentation paper given below
+##### Segnet and Unet are the breakthrough segmentation network which can be used for variety of applications such as medical,separation of objects,satellite images etc,. Here UNET archictecture is used to separatebody and dress from the person. It also be done based on Image processing and ML technique where features are color or texture, and it is a first way to segment the images and also helps to deepening the image processing concept. After the release of specific Segmentation Neural Network, the process would become very simple, only consume time to update their network parameters. Following are the segmentation paper given below
 
 | Paper                             | Link                                                                                                             |
 | --------------------------------  | ---------------------------------------------------------------------------------------------------------------: |
