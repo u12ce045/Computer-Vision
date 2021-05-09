@@ -1,0 +1,1 @@
+### This Notebook gives yout the intuition to solve the basic image processing using Machine Learning algorithm and CNN method. All those explanation regarding methods and features as well as datasets given in the notebook. 
